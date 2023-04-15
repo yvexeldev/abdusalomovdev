@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I am A'zam, 16 y.o <br> 🔰  I am Node.js backend developer <br> 📍  I am from Karshi, Uzbekistan <br> 🔭 I’m currently working on edu-platform like Cambly<br>🌱 I’m currently learning deep Node.js<br>
+👋 I am A'zam, 16 y.o <br> 🔰 Node.js backend developer <br> 📍 Tashkent, Uzbekistan <br> 🔭 I’m currently working on edu-platform like Cambly<br>🌱 I’m currently learning Rust lang 🦀<br>
 
 
 ## 🌐 Socials:
