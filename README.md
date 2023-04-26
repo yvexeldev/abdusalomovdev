@@ -1,6 +1,7 @@
 # 💫 About Me:
-👋 I am A'zam, 16 y.o <br> 🔰 Node.js backend developer <br> 📍 Tashkent, Uzbekistan <br> 🔭 I’m currently working on edu-platform like Cambly<br>🌱 I’m currently learning Rust lang 🦀<br>
+👀 16 y.o <br> 🔰 Node.js backend developer <br> 📍 Tashkent, Uzbekistan <br> 🔭 I’m currently working on edu-platform like Cambly<br>🌱 I’m currently learning Rust lang 🦀<br>
 
+[![wakatime](https://wakatime.com/badge/user/b2e56ab8-55a5-4ad8-8e26-94ef711c8dcd.svg)](https://wakatime.com/@b2e56ab8-55a5-4ad8-8e26-94ef711c8dcd)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/r1tnyx#4644) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritnyx.ts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azam-abdusalomov-624952251) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ritnyxdev) 
