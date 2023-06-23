@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 16 y.o <br> 🔰 Node.js backend developer <br> 📍 Tashkent, Uzbekistan <br> 🔭 I’m currently working on edu-platform like Cambly<br>🌱 I’m currently learning Rust lang 🦀<br>
+👀 16 y.o <br> 🔰 Node.js backend developer <br> 📍 Tashkent, Uzbekistan <br> 🔭 I’m currently working on Railway app <br>🌱 I’m currently learning Rust lang 🦀<br>
 
 [![wakatime](https://wakatime.com/badge/user/b2e56ab8-55a5-4ad8-8e26-94ef711c8dcd.svg)](https://wakatime.com/@b2e56ab8-55a5-4ad8-8e26-94ef711c8dcd)
 
